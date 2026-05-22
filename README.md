@@ -30,10 +30,6 @@ The game talks to the database over a small service layer that wraps the REST en
 
 The colouring logic handles repeated letters correctly — a guessed letter only lights up as many times as it actually appears in the answer, which is the part of Wordle most clones get wrong.
 
-## Screenshots
-
-*(Add a few screenshots of the menu, a game in progress, and the leaderboard here.)*
-
 ## Roadmap
 
 Some ideas I might add later:
